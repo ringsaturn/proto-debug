@@ -1,0 +1,1 @@
+protoc --proto_path=. --proto_path=./google --python_out=. sample.proto
